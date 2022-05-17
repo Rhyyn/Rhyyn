@@ -1,5 +1,5 @@
 - 👋 Hello, I’m Migeon Tony alias Rhyn
-- 🌱 I’m currently learning React and Typescript
+- 🌱 I’m currently learning React / Typescript / NextJS
 - 📫 Reach me at tonymigeonpro@gmail.com for any inquiries that you might have.
 
 <!---
