@@ -1,6 +1,9 @@
 <div align="center">
   <h1>👋 Hello, I’m Migeon Tony alias Rhyn</h1>
-  <p>🌱 I’m currently in the proccess of learning advanced React / Typescript / NextJS</p>
+  <br>
+  <p>🔎 I’m currently in the proccess of learning advanced React / Typescript / NextJS</p>
+  <br>
+  <p>🖥️ Currently Looking for Job opportunities</p>
     <p>📫 Reach me at 
       <a href="mailto:tonymigeonpro@gmail.com">tonymigeonpro@gmail.com</a>
     </p>
