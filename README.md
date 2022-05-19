@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Migeon Tony alias Rhyn
+- 👋 Hello, I’m Tony Migeon alias Rhyn
 - 🌱 I’m currently learning React / Typescript / NextJS
 - 📫 Reach me at tonymigeonpro@gmail.com for any inquiries that you might have.
 <div align="center">
